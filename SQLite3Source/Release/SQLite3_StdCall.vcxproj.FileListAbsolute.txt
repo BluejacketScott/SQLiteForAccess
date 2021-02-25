@@ -1,0 +1,1 @@
+C:\dev\SQLiteForAccess\SQLite3Source\Release\SQLite3_StdCall.dll
